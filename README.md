@@ -39,7 +39,6 @@ pip install -r requirements.txt
 ## Paleidimas
 
 ```bash
-# Orbbec kamera
 python main.py
 
 python video_demo.py "path to the video\video.mp4" --out "path to save results\video_rez.mp4"
