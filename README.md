@@ -46,7 +46,7 @@ python video_demo.py "path to the video\video.mp4" --out "path to save results\v
 
 ---
 
-## 🎮 Valdymas
+## Valdymas
 
 | Klavišas | Veiksmas |
 |---|---|
