@@ -14,8 +14,8 @@ Krepšinio metimo analizės sistema, pagrįsta žmogaus kūno laikysenos įverti
 ## Įdiegimas
 
 ```bash
-git clone https://github.com/Lauraven/HUMAN-MOTION-RECOGNITION-AND-FEEDBACK-SYSTEM-BASED-ON-HUMAN-POSE-ESTIMATION-ALGORITHM.git
-cd HUMAN-MOTION-RECOGNITION-AND-FEEDBACK-SYSTEM-BASED-ON-HUMAN-POSE-ESTIMATION-ALGORITHM
+git clone https://github.com/Lauraven/HUMAN-MOTION-RECOGNITION-SYSTEM.git
+cd HUMAN-MOTION-RECOGNITION-SYSTEM
 
 python -m venv venv
 source venv/bin/activate
